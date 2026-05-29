@@ -16,7 +16,9 @@ The step size h is reduced by one of order magnitude every iteration to improve 
 ## FINAL RESULTS
 
 Numerical estimate of f'(x)
+
 Tangent line
+
 Plot of the function and tangent line on the Cartesian Plane
 
 
